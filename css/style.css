@@ -373,6 +373,7 @@ form input{
     border: 0;
     border: 2px #35BFF1 solid;
     margin-bottom: 10px;
+    caret-color: #35BFF1;
 }
 form textarea{
     width: 100%;
@@ -381,6 +382,7 @@ form textarea{
     border: 0;
     padding-left: 10px;
     border: 2px #35BFF1 solid;
+    caret-color: #35BFF1;
 }
 
 .form{
